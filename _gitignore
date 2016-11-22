@@ -1,0 +1,15 @@
+.DS_Store
+
+*.swp
+*.o
+*.tmp
+
+tmp/
+temp/
+obj/
+build/
+Pods/
+
+project.xcworkspace
+xcuserdata
+
